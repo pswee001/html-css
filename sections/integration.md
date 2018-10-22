@@ -79,12 +79,6 @@ External styling creates a completely separate document for your CSS that will b
 
 Option 3, external styling, is preferred by most web developers because it's more manageable and because it lends itself to greater consistency across the entire site.
 
-## Challenge
-
-Create a stylesheet using the command line. In your `index.html` document, link to your style sheet and re-save the file. 
-
-If you need a reminder on which commands to use to create your new stylesheet file, see [here](cli-reminder2.md).
-
 To link your stylesheet with your `index.html` file, insert the following code into the head element:
 
 ```html
