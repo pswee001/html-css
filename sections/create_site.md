@@ -1,12 +1,10 @@
 [<<<Back](conventions.md) | [Next>>>](css_basic.md)
 
-#  Challenge: Create an Institute Site
+#  Challenge: Create a "Digital CV" Site
 
-For this challenge, practice using the command line. If you need a reminder of which commands to use to create new folders and files, see [here](cli-reminder.md).
+Using the tags we've just reviewed, and two additional ones (see below) begin creating a page to share your accomplishments online. 
 
-Using the tags we've just reviewed, and two additional ones (see below) begin creating an introductory page for your future Institute. 
-
-In your `projects` folder on your desktop, create a new folder called `website`. Create a `index.html` file inside that folder. This will be the homepage or landing page of your site.
+On your desktop, create a new folder called `website`. Create a `index.html` file inside that folder. This will be the homepage or landing page of your site.
 
 Add HTML to your `index.html` file. This page should include the following:
 
@@ -17,7 +15,7 @@ Add HTML to your `index.html` file. This page should include the following:
 - One heading
 - One paragraph
 - One image
-- A menu or navigation bar that links to your Home and About pages
+- A menu that links to your Home, About, and Research pages
 
 Think about the order of your content as you assemble the body of your page.
 
